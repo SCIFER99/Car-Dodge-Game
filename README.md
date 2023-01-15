@@ -19,5 +19,9 @@ this programming language! Packages you need before running it are:
 I commented throughout the scripts as much as possible for everyone to understand what is going on because 
 this is a substantial program! Its over 640+ lines of code between both scripts! 
 
+Directions to playing the game: The game moves by itself. However, going faster requires pressing
+the up (^) arrow key, dodging the cars using the left (<) and right (>) arrow keys with 
+no spacebar needed! 
+
 You guys can modify the game to your leisure! Happy Coding! 
      
